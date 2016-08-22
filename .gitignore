@@ -1,0 +1,13 @@
+bin/
+tmp/
+
+.settings/
+.metadata
+
+.classpath
+.project
+
+.DS_Store
+
+*.class
+
