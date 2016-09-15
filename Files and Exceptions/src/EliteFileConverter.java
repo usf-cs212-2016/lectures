@@ -125,9 +125,9 @@ public class EliteFileConverter {
      */
     public static void toLeetSpeak(Path input, Path output) throws IOException {
         try (BufferedReader reader = Files.newBufferedReader(input,
-                Charset.defaultCharset());
+                Charset.forName("UTF-8"));
                 BufferedWriter writer = Files.newBufferedWriter(output,
-                        Charset.defaultCharset());) {
+                        Charset.forName("UTF-8"));) {
             String line = null;
 
             while ((line = reader.readLine()) != null) {
