@@ -19,6 +19,13 @@ Please note that you can use the `URL` or `URI` class to parse the components of
 
 ## Other Resources ##
 
+The following lecture slides may be useful:
+
+- [Web - Basics](https://drive.google.com/open?id=0BxYofk0iB_upNTVsMXdsa1F2bzg)
+- [Web - URLs](https://drive.google.com/open?id=0BxYofk0iB_upMUxuOWRuaUVIalU)
+- [Web - HTML](https://drive.google.com/open?id=0BxYofk0iB_updW1qdnJEOXlMcTg)
+- [Web - HTTP](https://drive.google.com/open?id=0BxYofk0iB_upTEhpWEw0TE9WSDA)
+
 The following resources may be useful:
 
 - [YouTube Playlist: World Wide Web](https://www.youtube.com/playlist?list=PLm6V-0HXZmF2VBZ1DNto-e6lG_zggopxz)
