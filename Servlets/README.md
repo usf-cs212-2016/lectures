@@ -29,3 +29,8 @@ The following slides may be useful:
 
 - [Dynamic Webpages - Introduction](https://drive.google.com/open?id=0BxYofk0iB_upY1ozdHk5VVYycUE)
 - [Dynamic Webpages - Servlets](https://drive.google.com/open?id=0BxYofk0iB_upZFFPWUZocmdtLWM)
+
+## Project Setup ##
+
+You must have the `jetty` and `commons` user libraries setup in Eclipse for this project to compile properly. Otherwise, you will need to configure the build path.
+ 
