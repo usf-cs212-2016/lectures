@@ -50,7 +50,7 @@ public class HTTPFetcher {
 
         try (Socket socket = new Socket(url.getHost(), port);
                 BufferedReader reader = new BufferedReader(
-                        new InputStreamReader(socket.getInputStream()));
+                        new InputStreamReader(socket.getInputStream(), "UTF-8"));
                 PrintWriter writer = new PrintWriter(
                         socket.getOutputStream());) {
             writer.println(request);
