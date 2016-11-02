@@ -1,0 +1,6 @@
+[12:26:03:342 trace] Log4jDemo.java@23 main: Root Trace
+[12:26:03:343 debug] Log4jDemo.java@24 main: Root Debug
+[12:26:03:343 info ] Log4jDemo.java@25 main: Root Info
+[12:26:03:343 warn ] Log4jDemo.java@26 main: Root Warn
+[12:26:03:343 error] Log4jDemo.java@27 main: Root Error
+[12:26:03:343 fatal] Log4jDemo.java@28 main: Root Fatal
