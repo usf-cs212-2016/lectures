@@ -35,4 +35,5 @@ If you are a Windows user, you need to setup the tunnel (or port forwarding) usi
 
 ## Other Resources
 
+- [Java Database Connectivity (JDBC) Slides](https://drive.google.com/file/d/0BxYofk0iB_upNUp2V1BiWGw3NlU/view?usp=sharing)
 - [The Java Tutorials – Lesson: JDBC Basics](https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
